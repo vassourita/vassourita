@@ -1,4 +1,11 @@
-### Hi there 👋
+## Vinicius Vassão
+:earth_americas: Brazilian
+
+:birthday: 17yo
+
+:book: Student
+
+I'm currently learning about Design Patterns, Test Driven Development, Domain Driven Design, SOLID, and applying my knowledges with TypeScript, C# and Kotlin.
 
 <!--
 **vassourita/vassourita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
