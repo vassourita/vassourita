@@ -7,4 +7,4 @@
 
 :book: Student
 
-I'm currently learning about Design Patterns, Test Driven Development, Domain Driven Design, SOLID, and applying my knowledges with TypeScript and C#.
+I'm currently learning about Design Patterns, Test Driven Development, Domain Driven Design, SOLID, and applying my knowledges with TypeScript, C# and Kotlin.
