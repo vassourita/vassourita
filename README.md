@@ -4,7 +4,7 @@
 
 :earth_americas: Brazilian
 
-:birthday: 17yo
+:birthday: 18yo
 
 :book: Student
 
