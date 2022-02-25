@@ -27,7 +27,7 @@
 ## Contact
 
 <p>
-  <a target="_blank" href="mailto:vlviniciusguaruja7@gmail.com?subject=[GitHub]">
+  <a target="_blank" href="mailto:vassao.dev@gmail.com?subject=[GitHub]">
     <img alt="Gmail badge" src="https://img.shields.io/badge/-vlviniciusguaruja7@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/vinicius-vassao/">
