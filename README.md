@@ -2,13 +2,18 @@
 
 ## About me
 
-:earth_americas: Brazilian
+🌎 Brazilian
 
-:birthday: 18yo
+🎂 18yo
 
-:book: Student
+🖥️ Developer at BDS DataSolution
 
-## My stack and tools
+📖 Currently learning: Microservices
+
+Languages | Frameworks | Libs | Projects
+
+
+## Hard Skills
 
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -28,7 +33,7 @@
 
 <p>
   <a target="_blank" href="mailto:vassao.dev@gmail.com?subject=[GitHub]">
-    <img alt="Gmail badge" src="https://img.shields.io/badge/-vlviniciusguaruja7@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" />
+    <img alt="Gmail badge" src="https://img.shields.io/badge/-vassao.dev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/vinicius-vassao/">
     <img alt="Linkedin badge" src="https://img.shields.io/badge/-Vinicius%20Vassão-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-vassao/" />
