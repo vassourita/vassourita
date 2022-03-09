@@ -10,9 +10,6 @@
 
 📖 Currently learning: Microservices
 
-Languages | Frameworks | Libs | Projects
-
-
 ## Hard Skills
 
 <p>
