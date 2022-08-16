@@ -4,9 +4,7 @@
 
 🌎 Brazilian
 
-🎂 18yo
-
-🖥️ Developer at BDS DataSolution
+🎂 19yo
 
 🎯 Focused on <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />, <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJs-339933?style=flat-square&logo=node.js&logoColor=white" /> and <img alt="ReactJs" src="https://img.shields.io/badge/-ReactJs-51D0F0?style=flat-square&logo=React&logoColor=white" /> development
 
