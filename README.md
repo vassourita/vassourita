@@ -10,7 +10,7 @@
 
 🎯 Focused on <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white" /> development
 
-📖 Currently learning: Microservices and event-driven communication
+📖 Currently learning: Kubernetes
 
 ## Contact
 
