@@ -1,4 +1,4 @@
-# Hello World! :octocat:
+# Vinicius Vassão
 
 ## About me
 
@@ -6,9 +6,9 @@
 
 🎂 20yo
 
-💼 C# Developer @ Ploomes
+💼 Developer @ Ploomes
 
-🎯 Focused on <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white" /> development
+🎯 Focused on .NET development
 
 ## Contact
 
@@ -19,5 +19,5 @@
   <a target="_blank" href="https://www.linkedin.com/in/vinicius-vassao/">
     <img alt="Linkedin badge" src="https://img.shields.io/badge/-Vinicius%20Vassão-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-vassao/" />
   </a>
-  <img alt="Discord badge" src="https://img.shields.io/badge/-Vassoura%238230-7289DA?style=flat-square&logo=discord&logoColor=white" />
+  <img alt="Discord badge" src="https://img.shields.io/badge/-vass__oura-7289DA?style=flat-square&logo=discord&logoColor=white" />
 </p>
