@@ -4,11 +4,9 @@
 
 🌎 Brazilian
 
-🎂 21yo
+🎂 22yo
 
-💼 Mid-Level Developer @ Ploomes
-
-🎯 Focused on .NET development
+💼 Platform Engineer @ Ploomes
 
 ## Contact
 
